@@ -1,4 +1,4 @@
-# OmniAuth::Dnanexus
+# OmniAuth::DNAnexus
 
 OmniAuth strategy for [DNAnexus](https://documentation.dnanexus.com/developer/api/authentication).
 

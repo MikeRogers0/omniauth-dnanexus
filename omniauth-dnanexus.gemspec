@@ -4,12 +4,12 @@ require "omniauth/dnanexus/version"
 
 Gem::Specification.new do |spec|
   spec.name = "omniauth-dnanexus"
-  spec.version = OmniAuth::Dnanexus::VERSION
+  spec.version = OmniAuth::DNAnexus::VERSION
   spec.authors = ["Mike Rogers"]
   spec.email = ["me@mikerogers.io"]
 
-  spec.summary = "OmniAuth strategy for DnaNexus"
-  spec.description = "OmniAuth strategy for DnaNexus"
+  spec.summary = "OmniAuth strategy for DNAnexus"
+  spec.description = "OmniAuth strategy for DNAnexus"
   spec.homepage = "https://github.com/MikeRogers0/omniauth-dnanexus"
   spec.license = "MIT"
 

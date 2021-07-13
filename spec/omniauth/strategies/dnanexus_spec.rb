@@ -1,8 +1,6 @@
 require "spec_helper"
-require "json"
-require "omniauth-dnanexus"
 
-describe OmniAuth::Strategies::Dnanexus do
+describe OmniAuth::Strategies::DNAnexus do
   let(:app) do
     lambda do |_env|
       [200, {}, ["Hello."]]
