@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-OmniAuth strategy for [DNAnexus](https://documentation.dnanexus.com/developer/api/authentication).
+OmniAuth strategy for <a target="_blank" rel="noopener noreferrer"  href="https://documentation.dnanexus.com/developer/api/authentication">DNAnexus</a>
 </p>
 
 ## Installation
