@@ -2,7 +2,15 @@
 
 ## [Unreleased](https://github.com/MikeRogers0/omniauth-dnanexus/tree/HEAD)
 
-[Full Changelog](https://github.com/MikeRogers0/omniauth-dnanexus/compare/c419477e02461b4bc41b754f0daeaa997fb7ad1f...HEAD)
+[Full Changelog](https://github.com/MikeRogers0/omniauth-dnanexus/compare/v0.1.0...HEAD)
+
+**Merged pull requests:**
+
+- doc: Adding links to readme [\#4](https://github.com/MikeRogers0/omniauth-dnanexus/pull/4) ([MikeRogers0](https://github.com/MikeRogers0))
+
+## [v0.1.0](https://github.com/MikeRogers0/omniauth-dnanexus/tree/v0.1.0) (2021-07-13)
+
+[Full Changelog](https://github.com/MikeRogers0/omniauth-dnanexus/compare/c419477e02461b4bc41b754f0daeaa997fb7ad1f...v0.1.0)
 
 **Merged pull requests:**
 
