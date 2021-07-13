@@ -9,7 +9,7 @@
   <a target="_blank" rel="noopener noreferrer" href="https://badge.fury.io/rb/omniauth-dnanexus">
     <img src="https://badge.fury.io/rb/omniauth-dnanexus.svg" alt="Gem Version" style="max-width:100%;">
   </a>
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/MikeRogers0/omniauth-dnanexus/actions/workflows/ci.yml/badge.svg">
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/MikeRogers0/omniauth-dnanexus/actions/workflows/ci.yml">
     <img src="https://github.com/MikeRogers0/omniauth-dnanexus/actions/workflows/ci.yml/badge.svg" alt="CI Passing" style="max-width:100%;">
   </a>
 </p>
