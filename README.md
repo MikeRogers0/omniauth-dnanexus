@@ -1,6 +1,22 @@
-# OmniAuth::DNAnexus
+<h1 align="center">
+  OmniAuth::DNAnexus
+</h1>
 
+<p align="center">
+  <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/MikeRogers0">
+    <img src="https://img.shields.io/twitter/follow/MikeRogers0?label=Follow%20%40MikeRogers0%20For%20Updates&style=social" alt="Follow @MikeRogers on Twitter" style="max-width:100%;">
+  </a>
+  <a target="_blank" rel="noopener noreferrer" href="https://badge.fury.io/rb/omniauth-dnanexus">
+    <img src="https://badge.fury.io/rb/omniauth-dnanexus.svg" alt="Gem Version" style="max-width:100%;">
+  </a>
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/MikeRogers0/omniauth-dnanexus/actions/workflows/ci.yml">
+    <img src="https://github.com/MikeRogers0/omniauth-dnanexus/actions/workflows/ci.yml/badge.svg" alt="CI Passing" style="max-width:100%;">
+  </a>
+</p>
+
+<p align="center">
 OmniAuth strategy for [DNAnexus](https://documentation.dnanexus.com/developer/api/authentication).
+</p>
 
 ## Installation
 
