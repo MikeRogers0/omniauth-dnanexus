@@ -2,7 +2,7 @@ require "omniauth-oauth2"
 
 module OmniAuth
   module Strategies
-    class Dnanexus < OmniAuth::Strategies::OAuth2
+    class DNAnexus < OmniAuth::Strategies::OAuth2
       option :name, "dnanexus"
 
       # This is where you pass the options you would pass when
@@ -50,3 +50,5 @@ module OmniAuth
     end
   end
 end
+
+OmniAuth.config.add_camelization "dnanexus", "DNAnexus"
