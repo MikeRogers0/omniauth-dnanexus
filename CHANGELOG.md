@@ -6,6 +6,7 @@
 
 **Merged pull requests:**
 
+- bug: Remove trailing slashes on endpoint api calls [\#5](https://github.com/MikeRogers0/omniauth-dnanexus/pull/5) ([MikeRogers0](https://github.com/MikeRogers0))
 - doc: Adding links to readme [\#4](https://github.com/MikeRogers0/omniauth-dnanexus/pull/4) ([MikeRogers0](https://github.com/MikeRogers0))
 
 ## [v0.1.0](https://github.com/MikeRogers0/omniauth-dnanexus/tree/v0.1.0) (2021-07-13)
