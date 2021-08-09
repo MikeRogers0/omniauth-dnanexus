@@ -40,12 +40,18 @@ module OmniAuth
 
       def raw_info
         @raw_info ||= access_token.post(
-          "#{options.dnanexus_api_endpoint}/#{access_token.params["user_id"]}/describe",
+          user_describe_endpoint,
           body: "{}",
           headers: {
             "Content-Type" => "application/json"
           }
         ).parsed
+      end
+
+      private
+
+      def user_describe_endpoint
+        "#{options.dnanexus_api_endpoint.chomp("/")}/#{access_token.params["user_id"]}/describe"
       end
     end
   end
